@@ -3,13 +3,21 @@ Comandos basicos dia 1 linux
 (en powershell)
 
 Instalacion de linux en windows: wsl --install (seguir instrucciones en terminal)
+
 Ejecutar mi linux: wsl
+
 Ir a directorio personal (home): cd ~
+
 Abrir visual studio: code .
+
 Ver carpeta en la que nos encontramos: pwd
+
 Mostrar archivos de carpeta: ls
+
 Mostrar archivos de carpeta con ocultos y permisos detallados: ls -la
+
 Ir a una carpeta: cd [carpeta]
+
 Crea carpeta dentro de directorio: mkdir [nombre]
 
 En Linux no existen las letras de disco. Todo forma parte de un único árbol jerárquico gigante que cuelga de una sola raíz llamada Root (/).
