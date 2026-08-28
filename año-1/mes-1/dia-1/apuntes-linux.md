@@ -1,12 +1,10 @@
-Comandos basicos dia 1 linux
-
-(en powershell)
+#Comandos basicos dia 1 linux (en powershell)
 
 Instalacion de linux en windows: wsl --install (seguir instrucciones en terminal)
 
 Ejecutar mi linux: wsl
 
-Ir a directorio personal (home): cd ~
+Ir a directorio personal (home): #cd ~#
 
 Abrir visual studio: code .
 
