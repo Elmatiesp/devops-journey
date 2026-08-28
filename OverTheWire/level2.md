@@ -7,3 +7,5 @@ Para poder leer este archivo debemos realizar lo que hicimos en el ejercicio ant
 El comando quedaria de la siguiente manera: **cat ./"--spaces in this filename--"**
 
 Este comando leera el archivo y nos entregara la contraseña para el nivel 3 la cual sería: **7ZZ2LFrykP2zEyvBl4m3clcL7tGYJPME**
+
+Cerramos la conexion con: **exit**
