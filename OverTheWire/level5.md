@@ -1,4 +1,4 @@
-Para solucionar el nivel 4 primero debemos conectarnos por medio de ssh a ssh -p 2220 bandit5@bandit.labs.overthewire.org con el usuario bandit5
+Para solucionar el nivel 5 primero debemos conectarnos por medio de ssh a ssh -p 2220 bandit5@bandit.labs.overthewire.org con el usuario bandit5
 
 Revisamos las carpetas con el comando **ls**
 
