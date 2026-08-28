@@ -12,4 +12,4 @@ Para ver que tipo de archivo es utilizamos **file readme**
 
 Para ver el contenido del archivo utilizamos **cat readme**
 
-El Archivo nos entrega la contraseña del nivel 1: "The password you are looking for is: "**6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR**"
+El Archivo nos entrega la contraseña del nivel 1: "The password you are looking for is: **6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR**"
